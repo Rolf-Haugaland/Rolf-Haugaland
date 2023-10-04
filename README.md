@@ -1,4 +1,5 @@
-### Hi there 👋
+### About me
+I'm a student that wishes to learn more and start a development career. I am a student at NTNU and do some personal projects, but also track my school work on here in private repos. 
 
 <!--
 **Rolf-Haugaland/Rolf-Haugaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
